@@ -63,7 +63,7 @@ This project analyzes a dataset of 200,000 property records from 13 countries ac
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone <https://github.com/Omkar-Kashid23/House-Price-Prediction-Machine-Learning-Model-KNN->
 
 # Install required packages
 pip install pandas numpy matplotlib seaborn scikit-learn
